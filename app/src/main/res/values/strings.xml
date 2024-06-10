@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">FindIt</string>
+    <string name="title_home">Homepage</string>
+    <string name="title_upload">Upload</string>
+    <string name="title_my">Me</string>
+    <string name="title_upload_lost">Lost Uploads</string>
+    <string name="title_upload_find">Find the lost</string>
+    <string name="title_activity_upload_find">upload_find</string>
+    <string name="title_login">Log In</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="upload">Upload a photo</string>
+    <string name="maps_api"></string>
+
+    <string name="invalid_username">Incorrect user ID</string>
+    <string name="invalid_password">The password must be longer than 5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
